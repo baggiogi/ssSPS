@@ -5,7 +5,7 @@ Matlab code to compute state-space SPS confidence regions of the paper:
 
 The repository contains:
 
-- the script `main.m`: computes empirical coverage probability, component-wise box limits, mean distance from centroid, L2 ball radius of ssSPS regions and comparison with Gaussian Fisher (GF) and Observed Fisher (OF) regions for three noise scenarios described in the above paper.
+- the script `main.m`: computes empirical coverage probability, component-wise box limits, mean distance from centroid, l_2 ball radius of ssSPS regions and comparison with Gaussian Fisher (GF) and Observed Fisher (OF) regions for three noise scenarios described in the above paper.
 
 - the auxiliary function `coverage.m`: computes empirical coverage probability of SPS, GF, OF regions.
 
