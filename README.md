@@ -1,7 +1,7 @@
 # State-space SPS (ssSPS)
 Matlab code to compute state-space SPS confidence regions as described in the paper:
 
-> G. Baggio, A. Carè, G. Pillonetto, "Finite-Sample Guarantees for State-Space System Identification", submitted, 2022.
+> G. Baggio, A. Carè, G. Pillonetto, "Finite-Sample Guarantees for State-Space System Identification Under Full State Measurements", IEEE Conference on Decision and Control (CDC), Cancún, Mexico, 2022.
 
 The repository contains:
 
